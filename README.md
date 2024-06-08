@@ -1,29 +1,29 @@
-# Projeto de Encurtador de URL
+# URL Shortener Project
 
-Este projeto, localizado na branch `main`, é uma demonstração de uma arquitetura de encurtador de URL desenvolvida em Spring Boot, utilizando Java 11 e Banco de Dados Relacional MySQL. 
+This project, located in the `main` branch, is a demonstration of a URL shortener architecture developed using Spring Boot, Java 11, and a MySQL Relational Database.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 - Spring Boot 2.6.1
 - Java 11
 - MySQL
 
-## Estrutura do Projeto
+## Project Structure
 
-O projeto segue uma estrutura organizada com pastas para controle de entidades, serviços, controladores, repositories e utilidades.
+The project follows an organized structure with folders for managing entities, services, controllers, repositories, and utilities.
 
-## Autores e Contribuidores
+## Authors and Contributors
 
 Rayana Ribeiro Bonfanti
 
-## Status do Projeto
+## Project Status
 
-Versão atual: 0.0.1-SNAPSHOT
+Current version: 0.0.1-SNAPSHOT
 
-## Contato
+## Contact
 
-Para mais informações, entre em contato com [rayanabonfanti@gmail.com].
+For more information, contact [rayanabonfanti@gmail.com].
 
-## Contribuições
+## Contributions
 
-Fique à vontade para contribuir para este projeto, seja adicionando recursos, corrigindo bugs ou aprimorando, assim que feito, pode abrir um pull request que irei analisar o código para uma possível branch ser adicionada com suas alterações. Sua contribuição é bem-vinda!
+Feel free to contribute to this project by adding features, fixing bugs, or improving it. Once done, you can open a pull request, and I will review the code for a potential branch to be added with your changes. Your contribution is welcome!
